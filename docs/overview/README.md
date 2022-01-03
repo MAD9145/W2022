@@ -17,10 +17,9 @@ Students in teams will complete design and development projects for live clients
 - Minimum 8 hours per week team and individual work
 
 ## Schedule
+ 
 
-Section 300:  
-
-    Tuesdays   12pm - 2pm and 3pm - 5pm ZOOM class
-    Fridays    3pm  - 5pm  ZOOM class
+    Tuesdays   8:00 AM - 11:00 AM ZOOM class
+    Fridays    1:00 PM  - 4:00 PM  ZOOM class
 
               

@@ -43,7 +43,7 @@ If you are going to be late or absent, you MUST let your team leader know BEFORE
 
 - <Badge type="tip" text="1st"/>: Warning
 - <Badge type="warn" text="2nd"/>: 5% off your final grade
-- <Badge type="warn" text="3rd"/>: Meeting with Adesh and/or Su Cheng plus an additional 5% penalty.
+- <Badge type="warn" text="3rd"/>: Meeting with Adesh and/or Adam plus an additional 5% penalty.
 - <Badge type="error" text="4th"/>: Additional 20% off your final grade
 - <Badge type="error" text="5th"/>: Removed from your team.
 
@@ -77,9 +77,9 @@ Here is a copy of the [Terms & Conditions document](/W2021/terms-and-conditions-
 
 ## Status Meetings
 
-Every Tuesday between 12pm and 5pm there will be team status meetings. These meetings will be held on ZOOM. Each team will have a 30 minute window for their meeting. 
+Every Tuesday between 8:00 AM and 11:00 AM there will be team status meetings. These meetings will be held on ZOOM. Each team will have a 30 minute window for their meeting. 
 
-Every Friday between 3pm and 5pm there will be team progress meetings. These meetings will be held online on ZOOM. 
+Every Thrusday between 1:00 PM and 4:00 PM there will be team progress meetings. These meetings will be held online on ZOOM. 
 
 Some of these meetings will be where you submit deliverables. Some will give you an opportunity to ask questions that are specific to your team's project.
 
@@ -90,28 +90,16 @@ Attendance at these meetings is *required* for all team members.
 We will run this in class. -->
 
 #### Status Meeting Times
-Tuesdays: 
+
+Thursdays: 
 
 | Time        | Team         |
 | ------------ | ------------- |
-| 12pm - 2pm | Team 4 (Scrap Arts)  |
-| 12pm - 2pm | Team 5 (Indigenous)  |
-| 12pm - 2pm | Team 6 (Club Portal)  |
-| 3pm - 5pm | Team 1 (Premergency)  |
-| 3pm - 5pm | Team 2 (Grassroots)  |
-| 3pm - 5pm | Team 3 (CSE)  |
+| 00:00 PM | Team 1  ()  |
+| 00:00 PM | Team 2 ()  |
+| 00:00 PM | Team 3 ()  |
+| 00:00 PM | Team 4 ()  |
 
-
-Fridays: 
-
-| Time        | Team         |
-| ------------ | ------------- |
-| 3:00pm | Team 6 (Club Portal)  |
-| 3:20pm | Team 4 (Scrap Arts)  |
-| 3:40pm | Team 2 (Grassroots)  |
-| 4:00pm | Team 1 (Premergency)  |
-| 4:20pm | Team 5 (Indigenous)  |
-| 4:40pm | Team 3 (CSE)  |
 
 
 
@@ -119,12 +107,7 @@ Please plan to be 10 minutes early for the meeting. The Status meetings might ru
 
 ## Software
 
-While much of the software that you use will depend on your project, we will be using [Trello](https://trello.com/) or [Monday](https://monday.com/) as the project management software.
-
-Plugins for Trello:
-1. [Google Drive Power Up](https://trello.com/power-ups/55a5d916446f517774210006/google-drive)
-2. [GitHub](https://trello.com/power-ups/55a5d916446f517774210004)
-3. [Gantt Chart](https://trello.com/power-ups/5970d4298c14fdf691c95a76/teamgantt)
+While much of the software that you use will depend on your project, we will be using [Monday](https://monday.com/) as the project management software.
 
 The communication software:
 
@@ -211,8 +194,8 @@ Please invite all your team member, including Su Cheng and Adesh. -->
 
 ## Things To Do in Week 2
 
-- Get your team into Trello or Monday.
-- Get familiar with the features in Trello or Monday, and how tasks will be assigned.
+- Get your team into Monday.
+- Get familiar with the features in Monday, and how tasks will be assigned.
 - Do you have a standing meeting time with your client established yet?
 - Submit your Client Responses Tuesday
 - Submit your Team Branding Tuesday
@@ -230,9 +213,9 @@ Service Design is sometimes referred to as the Evolution of UX Design.
 [Learn More](./service-design.md)
 
 
-## Field Trip in Week 3
+<!-- ## Field Trip in Week 3
 
-TBD
+Not Applicable.  -->
 
 # Human Centered Design Program at Algonquin
 We will be having a guest speaker come to our class in Week 3. He is the Coordinator of a new Program and is only coming for a few minutes to talk about the new Program starting this Fall - Interdisciplinary Studies in Human-Centered Design

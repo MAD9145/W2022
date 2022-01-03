@@ -19,8 +19,7 @@ footer: Authored by MAD9145 ~ Copyright © 2022, Algonquin College of Applied Ar
   img-url="https://ca.slack-edge.com/T018XR8M7BL-U0199T0HYGP-70bfd7b0d819-512"
   bio="Professor of the Mobile Application Design & Development program at Algonquin College"
   :details="[
-      { label: 'email', value: 'robilla@algonquincollege.com' }, 
-      { label: 'twitter', value: '@' }, 
+      { label: 'email', value: 'robilla@algonquincollege.com' },  
       { label: 'github', value: 'arobillard' }, 
       { label: 'office', value: 'Zoom - by appointment' }
     ]"
